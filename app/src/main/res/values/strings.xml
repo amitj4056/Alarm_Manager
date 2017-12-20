@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">alarm manager</string>
+    <string name="title_activity_place_to_set">place_to_set</string>
+</resources>
